@@ -37,4 +37,13 @@ body {
     color: aqua;
 }
 
-.button {}
+.button {
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    background-image: linear-gradient(orange, maroon);
+    padding: 20px 50px;
+    color: aliceblue;
+    border-radius: 10px;
+
+}
