@@ -38,8 +38,7 @@ body {
 }
 
 .button {
-    height: 200px;
-    position: relative;
+
     font-size: 20px;
     font-weight: bold;
     text-decoration: none;
@@ -62,12 +61,12 @@ body {
 }
 
 .mid-heading {
-    font-size: 40pxpx;
-    font-weight: 900;
-    text-align: center;
     margin: 80px, 40px;
     margin-bottom: 0px;
-    color: black
+    color: black font-size: 40pxpx;
+    font-weight: 900;
+    text-align: center;
+
 }
 
 #para_2 {
