@@ -77,6 +77,10 @@ body {
     color: gray;
 }
 
+.font {
+    font-size: 30px;
+}
+
 .green {
     color: green;
     font-size: 40px;
@@ -113,4 +117,34 @@ body {
     border-radius: 10px;
     color: aliceblue;
 
+}
+
+.donation-plan {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 0%;
+}
+
+.plan {
+    text-align: center;
+    margin-top: 0px;
+}
+
+.final {
+    text-align: center;
+    margin: 40px;
+    padding-top: 40px;
+}
+
+.smile {
+    font-size: 30px;
+    text-align: center;
+    color: red;
+}
+
+.footer {
+
+    text-align: center;
+    background-color: black;
 }
