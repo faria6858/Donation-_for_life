@@ -14,7 +14,7 @@ body {
 
     margin: 0%;
     padding: 0%;
-    height: 50%;
+    height: 100%;
     text-align: center;
     background-image: url(images/pict_original.jpg);
     background-position: center;
@@ -64,7 +64,6 @@ body {
 
 .mid-heading {
     margin: 80px, 40px;
-    margin-bottom: 0px;
     color: black font-size: 40pxpx;
     font-weight: 900;
     text-align: center;
@@ -85,10 +84,33 @@ body {
 
 .Zakat {
     display: flex;
-
+    width: 50%;
 }
 
 .half-width {
     width: 50%;
-    margin: 20px;
+    padding-right: 20px;
+    text-align: justify;
+    padding-right: 50%;
+    padding-left: 5%;
+
+
+}
+
+.half-width-img {
+    width: 30%;
+    margin-top: 0px;
+    margin-right: 5px;
+    margin-left: 100%;
+}
+
+.contribute {
+    font-size: 20px;
+    font-weight: bold;
+    background-color: brown;
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: aliceblue;
+
 }
