@@ -86,7 +86,7 @@ body {
     font-size: 40px;
 }
 
-.Zakat {
+.flexible-container {
     display: flex;
     width: 50%;
 }
@@ -128,13 +128,25 @@ body {
 
 .plan {
     text-align: center;
-    margin-top: 0px;
+    margin-top: 100px;
 }
 
 .final {
-    text-align: center;
+
     margin: 40px;
     padding-top: 40px;
+}
+
+.flesible_container {
+    width: 50%;
+}
+
+#question-1 {
+    text-align: justify;
+}
+
+#question-2 {
+    text-align: justify;
 }
 
 .smile {
