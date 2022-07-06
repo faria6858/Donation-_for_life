@@ -1,7 +1,40 @@
-body{
+body {
     font-family: 'Arima', cursive;
+
+    style p {
+        margin: 0%;
+        padding: 0%;
+        background-image: url("pict_donation.jpg");
+    }
+
+
 }
-h1{
+
+.background {
+    margin: 0%;
+    padding: 0%;
+    height: 50%;
+    background-image: url(images/pict_original.jpg);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+
+.heading {
+
     font-size: 50px;
-    color: orangered;
+    font-weight: 900;
+    text-align: center;
+    margin: 40px;
+    color: rgba(210, 237, 240, 0.982);
 }
+
+.para {
+    margin: 50px;
+    padding: 50px;
+    text-align: center;
+    color: aqua;
+}
+
+.button {}
